@@ -1,0 +1,32 @@
+# Schemes
+#scheme: Muse
+#scheme: Mist
+#scheme: Pisces
+scheme: Gemini
+
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user   
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+  archives: /archives/ || fa fa-archive
+  schedule: /schedule/ || fa fa-calendar
+  sitemap: /sitemap.xml || fa fa-sitemap
+  #commonweal: /404/ || fa fa-heartbeat 
+ 
+# Enable / Disable menu icons / item badges.
+menu_settings:
+  icons: true
+  badges: false
+
+
+math:
+  every_page: true
+
+  mathjax:   
+    enable: true
+    # Available values: none | ams | all
+    tags: all
+
+
+

@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 基于变分推断的深度概率编程
-subtitle: ''
+title: 深度概率编程
+subtitle: 'Programming For Future'
 description: ''
 keywords:
 author: Guijin Ding
@@ -106,3 +106,4 @@ deploy:
   type: git
   repository: ssh://git@github.com/dingguijin/dingguijin.github.io
   branch: main
+
